@@ -1,0 +1,42 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "xFU2bUXM4YOg0da3Akg-5",
+      "name": "red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "BPlvQZiryEi1rKUOOo6Bj",
+      "name": "blur",
+      "value": "#1100fa"
+    },
+    {
+      "id": "sDZSvvfFv1_mfgctS1pUX",
+      "name": "green",
+      "value": "#00fa2a"
+    },
+    {
+      "id": "uGX0uJ0LK9JjtfTGFYdlI",
+      "name": "yellow",
+      "value": "#fbff05"
+    },
+    {
+      "id": "1CJ2JPth3EkM4OeLSs6Dd",
+      "name": "PUrpule",
+      "value": "#700de7"
+    },
+    {
+      "id": "792VbL-kOgGltjJZ6Ejv2",
+      "name": "Magnta",
+      "value": "#03d0d3"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Null/Discrete Mathematics/SpartaSystem/File Processing All Code.md",
+      "color": "xFU2bUXM4YOg0da3Akg-5"
+    }
+  ]
+}

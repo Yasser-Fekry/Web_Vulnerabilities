@@ -1,0 +1,11 @@
+{
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "nativeMenus": true,
+  "interfaceFontFamily": "FiraCode Nerd Font Propo,Fira Code Retina",
+  "textFontFamily": "FiraCode Nerd Font",
+  "cssTheme": "iA Writer",
+  "showRibbon": true,
+  "baseFontSize": 18,
+  "theme": "obsidian"
+}

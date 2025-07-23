@@ -1,0 +1,109 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Archive": {
+      "icon": "lucide-archive",
+      "unsynced": [
+        "56014e532381ade8",
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "BREAK FREE HABIT": {
+      "icon": "lucide-unlock",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Computer Graphics MCQ": {
+      "icon": "lucide-git-branch-plus",
+      "unsynced": [
+        "56014e532381ade8",
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Courses Working Now 💜": {
+      "color": "red",
+      "unsynced": [
+        "56014e532381ade8",
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Cyber Security": {
+      "icon": "lucide-codepen",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Cyber_Security": {
+      "icon": "lucide-antenna",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Electronics": {
+      "icon": "lucide-text-selection",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Java Script Notes": {
+      "icon": "lucide-square-code",
+      "unsynced": [
+        "56014e532381ade8",
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Null/Discrete Mathematics": {
+      "icon": "lucide-tablet-smartphone",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Null/Discrete Mathematics/SpartaSystem": {
+      "icon": "sync-small",
+      "unsynced": [
+        "56014e532381ade8",
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    },
+    "Null/Discrete Mathematics/SpartaSystem/File Processing All Code.md": {
+      "icon": "lucide-file-spreadsheet"
+    },
+    "Null/Discrete Mathematics/SpartaSystem/System Design And Analysis": {
+      "icon": "lucide-laugh",
+      "unsynced": [
+        "278559ef29b7f35a",
+        "be95150c2cfd4eaf"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}

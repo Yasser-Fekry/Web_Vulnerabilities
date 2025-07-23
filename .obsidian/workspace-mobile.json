@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "afab2f1874d3dbb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b92c726f56bea3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20fd0683c7d0af97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bug Hunt Methodology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bug Hunt Methodology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e980c9c97b09708",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8993907986571bc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "02f03d19ecf641c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Cyber_Security",
+            "matchingCase": false,
+            "explainSearch": true,
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "52a6b1128fd50dfd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "89ac3618c6fb30cb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "607734ab047b0075",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c943d42f475b49f1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Injection Vulnerabilites/1-OS Command Injection.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1351008425228b13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1-Cyber Security Course Tracker 🧠.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1ced78e6ffd4ddb4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1-Cyber Security Course Tracker 🧠.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "87ef28e5745043e8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "20fd0683c7d0af97",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Home Screen.md",
+    "Bug Hunt Methodology.md",
+    "Injection Vulnerabilites/1-OS Command Injection.md",
+    "Injection Vulnerabilites/0-Cros Site Scripting (XSS).md",
+    "7-Network Mapper.md",
+    "Habit Tracker 🤲.md",
+    "Course_Presentation.pdf",
+    "Habit Tracker 🤲.sync-conflict-20250702-161740-ZETTZ6O.md",
+    "Archive/test.md",
+    "9-XSS.md",
+    "Writeups/0-INFORMATION DISCLOSURE.md",
+    "Writeups",
+    "OWASP Top 10 Bugs/INFORMATION DISCLOSURE.md",
+    "OWASP Top 10 Bugs/Subdomain Takeover.md",
+    "OWASP Top 10 Bugs/PATH TRAVERSAL.md",
+    "OWASP Top 10 Bugs/Broken Access Control.md",
+    "OWASP Top 10 Bugs/CSRF.md",
+    "OWASP Top 10 Bugs/OAUTH 2.0.md",
+    "OWASP Top 10 Bugs",
+    "Archive/Learn Obsidian Notes.md",
+    "Archive/Install Pkg in Kali Linux.md",
+    "Archive/Habit Tracker 🤲.md",
+    "Archive/theme 2.md",
+    "Archive/Beast Theme.md",
+    "Archive/7-Nmap.md",
+    "Archive",
+    "Top 10 Bugs/Broken Access Control.md",
+    "Top 10 Bugs/Subdomain Takeover.md",
+    "Top 10 Bugs/PATH TRAVERSAL.md",
+    "Top 10 Bugs",
+    "ScreenShot/22.png",
+    "ScreenShot/23.png",
+    "Reference ☕🌹/LinuxNotesForProfessionals.pdf",
+    "Reference ☕🌹/linux-basic-for-hacking.pdf",
+    "Reference ☕🌹/Bug Bounty Playbook.pdf",
+    "Reference ☕🌹/Nmap-Cheat-Sheet.pdf",
+    "ScreenShot/18.png",
+    "ScreenShot/17.png",
+    "ScreenShot/16.png",
+    "Reference ☕🌹/security-cissp-all-in-one-exam-guide-6th-edition.pdf",
+    "ScreenShot/3.png",
+    "ScreenShot/4.png",
+    "ScreenShot/;&explain.png",
+    "ScreenShot/grep.png"
+  ]
+}

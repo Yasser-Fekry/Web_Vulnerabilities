@@ -1,0 +1,26 @@
+{
+  "tabSize": 5,
+  "showInlineTitle": true,
+  "rightToLeft": false,
+  "propertiesInDocument": "visible",
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true
+}

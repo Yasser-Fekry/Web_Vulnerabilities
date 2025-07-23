@@ -1,0 +1,37 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "CyberSecurity": 1,
+    "Programming": 2,
+    "Linuxuser": 3,
+    "killServer": 4,
+    "markdown": 5,
+    "Java": 6,
+    "UNIX": 7,
+    "include": 8,
+    "meterpreter": 9,
+    "￼": 10,
+    "Part_23": 11,
+    "يشير": 12,
+    "Part_12": 13,
+    "Cyber_Security": 14,
+    "excalidraw": 15,
+    "تطوير_ذاتي": 16,
+    "InformaionDisclosure": 17,
+    "injection": 18,
+    "brokenAccess": 19,
+    "os": 20,
+    "Tools": 21,
+    "SecurityTools": 22
+  },
+  "_version": 3
+}
